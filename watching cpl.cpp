@@ -1,6 +1,3 @@
-// بساملہ ہیر رحمن نیر رحیم
-// Born to be a GrandMaster
-//---------------------------//
 #pragma GCC optimize("Ofast")
 #pragma GCC target("avx,avx2,fma")
 #pragma GCC optimization ("unroll-loops")
